@@ -1,5 +1,31 @@
-line 1
-line 2
-
-line 4 after blank line 3
-line 5
+"Date Integer",
+    "Date",
+    "Year",
+    "Month Number",
+    "Day Number",
+    "Week Number",
+    "Is Today Flag",
+    "Is Yesterday Flag",
+    "Is In Future Flag",
+    "Is Within Last 365 Days Flag",
+    "Is Within Last 60 Days Flag",
+    "Is Within Last 30 Days Flag",
+    "Is Within Last 7 Days Flag",
+    "Is Within Next 365 Days Flag",
+    "Is Within Next 60 Days Flag",
+    "Is Within Next 30 Days Flag",
+    "Is Within Next 7 Days Flag",
+    "Is Within Year To Date Flag",
+    "Is Within Quarter To Date Flag",
+    "Is Within Month To Date Flag",
+    "Is Within Week To Date Flag",
+    "Is Within Current Period Flag",
+    "Is Within Last Period Flag",
+    "Is Within Last Period 2 Flag",
+    "Is Within Last Period 3 Flag",
+    "Is Within Last Period 4 Flag",
+    "Is Within Last Period 5 Flag",
+    "Month",
+    "Quarter Number",
+    "Week",
+    Quarter
