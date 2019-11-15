@@ -1,0 +1,5 @@
+line 1
+line 2
+
+line 4 after blank line 3
+line 5
